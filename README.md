@@ -1,7 +1,3 @@
-Here is a professional and clear `README.md` template tailored for your project. You can copy-paste this directly into your GitHub repository.
-
----
-
 # 📊 LLM Dataset Generator
 
 A Gradio-based web application that leverages **Llama-3.2-3B-Instruct** to generate custom datasets based on natural language descriptions. Users can specify column names, data types, and row counts, then preview and download the result as a CSV.
